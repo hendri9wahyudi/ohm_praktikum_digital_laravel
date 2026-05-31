@@ -1,0 +1,15 @@
+{
+  "name": "esp32-bridge-ohm",
+  "version": "1.0.0",
+  "main": "esp32-bridge.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node esp32-bridge.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
